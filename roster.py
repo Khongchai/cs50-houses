@@ -29,4 +29,3 @@ for row in List:
 
 if check == False:
         print("Please check your house spelling")
-#All ready except check house spelling
